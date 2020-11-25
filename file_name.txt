@@ -1,2 +1,2 @@
-Homework,Hight
 Lecture,Low
+Lab,Low
